@@ -21,6 +21,12 @@ El pipeline ejecuta lo siguiente:
 
 > Cada vez que se hace push a `main`, se activa automáticamente el workflow.
 
+## 🔁 Pull Request realizado
+
+Como parte del laboratorio, se realizó un **Pull Request desde la rama `feature/cambio-mensaje`** con una actualización en el archivo `app.js`, simulando el flujo profesional de revisión y entrega de cambios.
+
+✅ El PR fue creado correctamente y validado por GitHub Actions antes de ser fusionado.
+
 ## ✅ Captura de pantalla del pipeline funcionando
 
 ![alt text](image.png)
